@@ -92,7 +92,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 {% comment %}
 AUDIENCE
 
-The workshop is aimed at scientists at all stages of their education and careers who wish to learn computational tools to increase the reproducibility and efficiency of their work. Participants should have some knowledge of programming (not necessarily Python) and have some familiarity with the shell command line (i.e. navigating directories on the shell command line). Specific knowledge of Python and git are not required. 
+The workshop is aimed at graduate students and researchers at all stages of their education and careers who wish to learn computational tools to increase the reproducibility and efficiency of their work. Participants should have some knowledge of programming (not necessarily Python) and have some familiarity with the shell command line (i.e. navigating directories on the shell command line). Specific knowledge of Python and git are not required. 
 {% endcomment %}
 {% if site.carpentry == "swc" %}
 {% include swc/who.html %}
