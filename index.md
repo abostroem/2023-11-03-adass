@@ -396,7 +396,7 @@ please preview your site before committing, and make sure to run
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
-Instructions for testing your installation can be found <a href="https://abostroem.github.io/2023-11-03-adass/setup/index.md">here</a>
+Instructions for testing your installation can be found <a href="https://abostroem.github.io/2023-11-03-adass/setup/index.html">here</a>
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
